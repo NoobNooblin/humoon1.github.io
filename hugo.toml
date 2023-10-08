@@ -1,6 +1,7 @@
-baseURL = 'http://localhost:1313/'
+baseURL = ' https://noobnooblin.github.io/moonhu.github.io/'
 languageCode = 'en-us'
 title = 'Hu Yue Site'
+theme = "hyde"
 
 
 
