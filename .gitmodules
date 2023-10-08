@@ -3,6 +3,6 @@
     url = https://github.com/NoobNooblin/humoon.github.io.git
 
 
-[submodule "theme/hyde"]
+[submodule "themes/hyde"]
     path = public
     url = https://github.com/NoobNooblin/humoon.github.io.git
