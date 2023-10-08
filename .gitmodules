@@ -4,5 +4,5 @@
 
 
 [submodule "themes/hyde"]
-    path = public
+    path = themes/hyde
     url = https://github.com/NoobNooblin/humoon.github.io.git
